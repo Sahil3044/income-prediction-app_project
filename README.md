@@ -9,7 +9,7 @@
 
 **Live Demo:** [Streamlit App](https://income-prediction-appproject.streamlit.app/)  
 **API Endpoint:** `http://127.0.0.1:8000` (Local Development)  
-**GitHub Repository:** [Link to your repo]
+**GitHub Repository:**  https://github.com/Sahil31312/income-prediction-app_project/tree/main
 
 ## 📌 Executive Summary
 

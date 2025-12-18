@@ -611,7 +611,7 @@ If you use this project in your research, please cite it as:
 
 ## ⭐ If you like this project, give it a star!
 ### It helps me know this project is useful and keeps it active.  
-[Click here to star the repo](https://github.com/Sahil31312/income-prediction-app_project/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Sahil31312/income-prediction-app_project?style=social&label=Star&logo=github)](https://github.com/Sahil31312/income-prediction-app_project/stargazers)
 
  
  
